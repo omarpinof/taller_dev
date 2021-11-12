@@ -7,3 +7,5 @@ assert fun.sumar(5,4) == 9
 
 def test_Omar():
     assert fun.omar() == 'omar'
+
+
